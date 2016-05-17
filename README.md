@@ -13,3 +13,8 @@
 - markdown网上有各种教程
 - 学习笔记直接用markdown写，边学Git，边写笔记.
 - 其他资料自己找到好资源的话，欢迎大家写在我们的分享的版本库中。[点击这里](https://github.com/ZypcGroup/zypcShare)
+
+# 惊喜在这里
+- 在线 MarkDown 编辑器上线了 [点击这里，开启MarkDown学习之旅](http://blog.jaxiu.cn/ClearMarkdown) 
+- **注意：** 文档不会保存，你只能看到写的效果，文档请自己复制粘贴下来保存
+- 其他选择， 有道云笔记 现在也支持MarkDown语法编辑了，大家可以尝尝鲜。
