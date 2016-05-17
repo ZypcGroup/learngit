@@ -6,3 +6,4 @@
 - 阿修，完成了git学习，时间 ： 2016-05-16 21:08  我学习Git的链接:https://github.com/hexiu/learn_git
 - 丁磊，完成了git学习，时间 ： 2016-05-16 21:37
 - 丁磊，完成了GIT学习，时间 :  2016-05-16 21:58
+- 钟嘉豪，完成了git学习，时间：2016-05-17 21:06 我学习git的连接是https://github.com/ZJH9Rondo/RondoText1.git
