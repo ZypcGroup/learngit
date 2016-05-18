@@ -2,6 +2,7 @@
 * 没有搞清楚git 与 github 的关系.
 * 在git 申请ssh-key的时候细节问题
 * 如何与ZypcGroup链接并clone 时错误提示：fatal: remote origin already exists.
+
 ## 以下是我遇到的三个问题的解决方案：
 1. Git是一款免费、开源的分布式版本**控制系统**，用于敏捷高效地处理任何或小或大的项目。
    GitHub是一个可以提供Git仓库托管服务的网站，所以，只要注册一个GitHub账号，就可以免费获得Git远程仓库。
