@@ -1,5 +1,5 @@
 #学习笔记
-1. git基本命令
+## git基本命令
 * git config --global user.name "Your Name"
 * git config --global user.email "email@example.com"
     * 这俩个不解释，--global表示这台机器上的所有git仓库都使用这个配置
