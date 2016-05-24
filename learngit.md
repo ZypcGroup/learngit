@@ -8,7 +8,7 @@
 - 阿修，完成了git学习，时间 ： 2016-05-16 21:08  我学习Git的链接:https://github.com/hexiu/learn_git
 - 丁磊，完成了git学习，时间 :  2016-05-16 21:58  我学习git的链接:https://github.com/MosBest/learngit.git
 - 钟嘉豪，完成了git学习，时间：2016-05-17 21:06 我学习git的连接是https://github.com/ZJH9Rondo/RondoText1.git
-- 张昕乐，完成了GIT学习, 时间：2016-5-17 21:23
+- 张昕乐，完成了GIT学习, 时间：2016-5-17 21:23 我学习git的链接是:https://github.com/zhangxinle/learn
 - 许栋，完成了git学习，时间：2016-5-18 12：25
 - 王沛楠，完成了git学习，时间：2016-5-18 13:25 我学习git的链接是[戳这里](https://github.com/wildpener/learngit)
 - 张潇文，完成了GIT学习，时间：2016年5月18日20:24:13·
