@@ -12,7 +12,7 @@
 - 许栋，完成了git学习，时间：2016-5-18 12：25 我学习git的链接是：https://github.com/diaojinping
 - 王沛楠，完成了git学习，时间：2016-5-18 13:25 我学习git的链接是[戳这里](https://github.com/wildpener/learngit)
 - 张潇文，完成了GIT学习，时间：2016年5月18日20:24:13·
-- 宁海静，完成了GIT学习，时间：2016年5月18日23.31 我学习GIT的链接是:https://github.com/ningjingdexiatiam/learngit
+- 宁海静，完成了GIT学习，时间：2016年5月18日23.31 我学习GIT的链接是:https://github.com/ningjingdexiatian/learngit
 - 石永超，完成了git学习，时间：2016-5-20 10：10.
 - 张爱玲，完成了git学习，时间：2016-5-24  23.33  我学习Git的链接:https://github.com/zhangailing/learngit
 - 谭晓明，完成了git学习，时间：2016-5-25 22：28 我学习的git链接：https://github.com/tandess/learngit
