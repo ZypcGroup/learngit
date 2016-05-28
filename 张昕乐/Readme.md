@@ -10,4 +10,4 @@
 ## 2.我学习markdown的途径是通过一个叫做“作业部落”的网址，可以在线学习，尝试markdown。
 ###  第一次写这种交流型的东西，有错误和不妥的地方还请大家帮忙指正。
 # Linux真的很强大，推荐大家以后提交github都使用LINUX。
-## [戳这里]()https://www.liaoxuefeng.com
+## [戳这里](https://www.liaoxuefeng.com)
