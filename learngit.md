@@ -16,6 +16,5 @@
 - 石永超，完成了git学习，时间：2016-5-20 10：10.
 - 张爱玲，完成了git学习，时间：2016-5-24  23.33  我学习Git的链接:https://github.com/zhangailing/learngit
 - 谭晓明，完成了git学习，时间：2016-5-25 22：28 我学习的git链接：https://github.com/tandess/learngit
-
-= 刘梦维，完成了git学习，时间：2016-5-30 17：24 我学习git的链接：
+- 刘梦维，完成了git学习，时间：2016-5-30 17：24 我学习git的链接：
 
